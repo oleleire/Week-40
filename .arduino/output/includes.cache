@@ -1,0 +1,17 @@
+[
+  {
+    "Sourcefile": null,
+    "Include": "",
+    "Includepath": "/Users/oleleire/Library/Arduino15/packages/arduino/hardware/avr/1.8.6/cores/arduino"
+  },
+  {
+    "Sourcefile": null,
+    "Include": "",
+    "Includepath": "/Users/oleleire/Library/Arduino15/packages/arduino/hardware/avr/1.8.6/variants/standard"
+  },
+  {
+    "Sourcefile": "/Users/oleleire/Documents/ESI/Prosjektfag/Øvingsprosjekter /Week-40/.arduino/output/sketch/Oppgave1.ino.cpp",
+    "Include": "",
+    "Includepath": null
+  }
+]
